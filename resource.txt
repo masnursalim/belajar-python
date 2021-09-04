@@ -1,0 +1,4 @@
+https://realpython.com/
+https://www.learnpython.org/
+https://www.guru99.com/python-tutorials.html
+https://www.programiz.com/python-programming

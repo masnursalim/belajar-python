@@ -1,0 +1,10 @@
+Variable
+------------------------------------------------------------------------
+- Variable adalah wadah atau kontainer untuk menyimpan nilai atau data.
+
+
+Membuat Variable
+----------------------------------------------------------------------------
+- Python pada dasarnya tidak memiliki sintak khusus untuk deklarasi variable.
+- Pembuatan variable langsung ketika memberikan nilai pada variable tersebut.
+contoh : variable.py
