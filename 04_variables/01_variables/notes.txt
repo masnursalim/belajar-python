@@ -8,3 +8,25 @@ Membuat Variable
 - Python pada dasarnya tidak memiliki sintak khusus untuk deklarasi variable.
 - Pembuatan variable langsung ketika memberikan nilai pada variable tersebut.
 contoh : variable.py
+
+- Variable pada Python bersifat dinamis, tipe data variable akan mengikuti nilai yang diberikan. Misalkan awalnya sebuah variable diberi
+  nila string, selanjutnya variable tersebut bisa diberi nilai integer ataupun tipe data lainnya.
+contoh : variable2.py
+
+
+Casting
+------------------------------------------------------------------------------------
+- Casting adalah proses mengubah/mengkonversi suatu tipe data menjadi tipe data lainnya.
+contoh : variable_casting.py
+
+
+Variable String
+------------------------------
+- Variable string dapat di buat dengan menggunakan petik tunggal atau petik ganda.
+contoh : variable_string.py
+
+
+Variable Di Python case-sensitive
+-----------------------------------------------------------------------
+- Variable di Python bersifat case-sensitive, huruf besar dan huruf kecil dibedakan.
+contoh : variable_case_sensitive.py

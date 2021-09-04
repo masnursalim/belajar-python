@@ -1,0 +1,35 @@
+Variable Names
+-----------------------------------
+- nama variable sebenarnya boleh menggunakan 1 karakter misalkan x, y atau i. Atau nama yang lebih informatif sesuai dengan nanti
+  data atau nilai yang mau disimpan.
+
+- Aturan penamaan variable di Python:
+  1. Nama variable harus diawali dengan huruf atau underscore.
+  2. Nama variable tidak boleh diawali dengan angka
+  3. Nama variable hanya boleh mengandung karakter alpanumerik (A-z, 0-9 dan _)
+  4. Nama variable bersifat case-sensitive
+
+- Contoh legal variable
+    myvar = "John"
+    my_var = "John"
+    _my_var = "John"
+    myVar = "John"
+    MYVAR = "John"
+    myvar2 = "John"
+
+- contoh nama variable yang dilarang
+  2myvar = "John"
+  my-var = "John"
+  my var = "John"
+
+
+Multi Word Variable Name  
+--------------------------------------------------------------------
+- Nama variable dapat lebih dari 1 kata
+- Ada beberapa teknik untuk membuat variable lebih dari 1 kata, yaitu:
+  1. Camel Case, setiap kata diawali dengan huruf besar kecuali kata pertama
+     contoh : myVariableName = "John"
+  2. Pascal Case
+     contoh : MyVariableName = "John"
+  3. Snake case
+     contoh : my_variable_name = "John"      
