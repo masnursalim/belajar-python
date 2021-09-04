@@ -1,0 +1,27 @@
+Python Indentation
+---------------------------------------------
+- Indentation merujuk pada spasi di awal kode program
+- Pada bahasa pemrograman Python, Indentation merupakan hal yang sangat penting yang menunjukkan blok kode program.
+- contoh: indentation.py
+- Jika Anda tidak memberikan indentation pada program diatas, maka ketika dijalankan akan menampilkan pesan error
+- Jumlah spasi yang diberikan pada indentation itu bebas terserah style masing-masing programmer.
+
+
+Python Variable
+-----------------------------------------------------------
+- Pada bahasa pemrograman Python, variable dibuat ketika memberikan (assign) nilai ke variable tersebut.
+  misal : nama = "Nursalim"
+          alamat = "Brebes"
+
+contoh : variable.py
+
+
+Komentar Pada Python
+--------------------------------------------------------
+- Seperti pada bahasa pemrograman umumnya, Python menyediakan fasilitas komentar. 
+- Komentar biasanya digunakan untuk menjelaskan kode program, sehingga program mudah dibaca baik oleh pembuat nya maupun
+  programmer lainnya.
+- Komentar tidak akan dieksekusi oleh program.
+- Komentar dibuat dengan menggunakan tanda pagar (#)
+contoh : komentar.py  
+  

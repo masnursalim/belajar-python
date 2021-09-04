@@ -1,0 +1,4 @@
+- Sebelum memastikan untuk memulai coding di Python, pastikan Anda suda mengecek terlebih dahulu apakah Python sudah terinstall atau belum.
+  Untuk yang belum install, silakan Anda install terlebih dahulu dari situs resminya https://www.python.org/.
+- Untuk yang sudah install, silakan Anda petikkan command berikut untuk mengetahui versi Python yang Anda gunakan.
+  python --version
