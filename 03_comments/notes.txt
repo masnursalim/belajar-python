@@ -1,0 +1,18 @@
+Python Comments
+---------------------------------------------------------
+- Python digunakan untuk menjelaskan kode program
+- Digunakan agar mudah di baca
+- Digunakan agar kode tidak dieksekusi oleh Program.
+
+
+Komentar 1 Baris
+---------------------------------------------------------
+- untuk membuat komentar 1 baris di Python, Anda dapat menggunakan tanda #
+contoh : comment_single_line.py
+
+
+Komentar Banyak Baris
+----------------------------------------------------------------------------
+- untuk membuat komentar lebih dari 1 baris bisa menggunakan tanda # seperti komenta multi line string yaitu dengan diawali tanda '''
+  dan diakhiri dengan tanda ''' tapi tanpa menggunakan variable.
+contoh : comment_multi_line.py  
