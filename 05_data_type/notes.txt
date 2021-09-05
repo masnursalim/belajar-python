@@ -1,0 +1,22 @@
+- Python memiliki tipe data built-int secara default.
+- Berikut beberapa tipe data built-in di Python:
+  1. Tipe text : str
+  2. tipe Numerik : int, float, complex
+  3. Tipe Sequence : list, tuple, range
+  4. Tipe mapping : dict
+  5. Tipe set : set, frozenset
+  6. Tipe Boolean : bool
+  7. Tipe binary : bytes, bytearray, memoryview
+
+
+Menampilkan Tipe Data dari Variable
+----------------------------------------------------------------
+- untuk menampilkan tipe data dari suatu variable, Anda dapat menggunakan fungsi type()
+  contoh : get_type_data.py  
+
+
+Setting Tipe Data Spesifik
+-------------------------------------------------------------------------------
+- Anda dapat langsung memberikan tipe data secara langsung ke dalam variable, yaitu dengan menggunakan konstruktor masing-masing tipe
+  data.
+contoh : set_tipe_data_variable.py  
