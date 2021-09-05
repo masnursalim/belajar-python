@@ -1,0 +1,16 @@
+Many Value Multiple Variable
+--------------------------------------
+- Python mengijinkan untuk meng-assign multiple value pada multiple variable hanya dalam 1 baris.
+contoh : multi_value_multi_variable.py
+
+
+Single Value Multiple Variable
+---------------------------------------------------
+- Pada python, Anda dapat memberikan satu nilai pada beberapa variable sekaligus.
+contoh : single_value_multi_variable.py
+
+
+Unpack Collection
+---------------------------------------------------------------------------
+- Di Python, kita bisa meng-unpack nilai dari collection seperti list dan tuple kedalam beberapa variable.
+contoh : unpack_list.py

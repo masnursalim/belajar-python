@@ -1,0 +1,8 @@
+Output Variables
+----------------------------------------------------------------------
+- untuk menampilkan output dari sebuah variable, biasanya kita menggunakan fungsi print()
+- Anda dapat menampilkan output dari beberapa variable atau value dengan menggunakan tanda + atau dikenal dengan operator penggabungan
+  (concatenation)
+contoh : output_variable.py
+
+sebagai catatan, nilai atau variable yang akan digabung harus memiliki tipe data yang sama. Kalau tidak sama akan menampilkan pesan error
