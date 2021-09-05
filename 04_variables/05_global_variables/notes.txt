@@ -3,4 +3,15 @@ Global Variable
 - Global variable adalah variable yang dibuat di luar function. global variable dapat diakses dimanapun baik di dalam function
   mapupun diluar function.
 
-contoh : global_variable.py  
+contoh : global_variable.py
+
+- Jika Anda membuat variable dengan nama yang sama seperti di dalam function, maka variable tersebut akan menjadi local variable
+  dan hanya bisa diakses secara local di dalam function.
+contoh : local_variable.py  
+
+
+Global Keyword
+--------------------------------------------------------------
+- Umumnya ketika anda membuat variable di dalam function, maka variable tersebut adalah variable local dan hanya bisa diakses di dalam
+  function tersebut. Nah, di Python variable local dapat dibuat menjadi global dengan menggunakan keyword global.
+contoh : global_keyword.py  
