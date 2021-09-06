@@ -1,0 +1,38 @@
+- Tipe data numerik di Python terbagi atas 3 tipe data, yaitu:
+  1. int
+  2. float
+  3. complex
+
+contoh : number_data_type.py
+
+Tipe Data Integer
+-----------------------------------------
+- untuk menyimpan bilangan bulat baik positif maupun negatif serta unlimited
+contoh : integer_data_type.py
+
+
+Tipe Data Float
+---------------------------------------------------
+- untuk menyimpan data bilangan pecahan baik positif maupun negatif.
+contoh : float_data_type.py
+
+
+Tipe Data Complex
+---------------------------------------------------
+- Tipe data complex ditulis dengan menambahkan huruf 'j' sebagai bilangan imajiner
+contoh : complex_data_type.py
+
+
+Konversi Tipe Data
+----------------------------------------------------------
+- Anda mengkonversi tipe data dari integer ke float, float ke intege, integer ke complex, float ke complex dan sebagainya kecuali
+  konversi dari complex ke int.
+- Untuk mengkonversi ke tipe data diatas, yaitu dengan menggunakan fungsi konstruktor yaitu int(), float(), dan complex()
+contoh : convert_number_type.py
+
+
+Membuat Random Number
+-----------------------------------------------------------------------
+- Python menyediakan library atau pustaka khusus untuk membuat bilangan random atau acak. 
+- Library random ini merupakan library bawaan sehingga Anda tidak usah menginstall melalui pip.
+Contoh : random_number.py
