@@ -1,0 +1,25 @@
+Apa Itu Casting?
+-----------------------------------------
+- Ada waktunya kita ingin menentukan secara langsung tipe data pada sebuah variable. Hal ini dapat Anda lakukan dengan proses casting.
+- Casting Variable adalah proses mengkonversi tipe data ke dalam tipe data lainnya.
+- Pada bahasa pemrograman Python, casting dapat dilakukan dengan memangil konstruktor fungsi masing-masing tipe data seperti
+  int(), float(), str(), dan lain sebagainya.
+
+Konstruktor int()
+-----------------------------------------------------  
+- Dengan menggunakan konstruktor ini, Ada dapat membuat variable integer dari sebuah variable string atau float 
+  bahkan dari variable integer itu sendiri.
+- contoh : casting_int.py  
+
+Konstruktor float()
+--------------------------------------------------
+- Anda dapat menggunakan konstruktor fungsi float() untuk membuat sebuah variable float dari tipe data integer, string dan pastinya
+  dari tipe data float sendiri.
+- contoh : casting_float.py
+
+
+Konstruktor string()
+--------------------------------------------------------
+- Anda dapat menggunakan konstruktor fungsi string() untuk membuat sebuah variable string dari tipe data integer, float dan pastinya
+  dari tipe data string sendiri.
+- contoh : casting_string.py
