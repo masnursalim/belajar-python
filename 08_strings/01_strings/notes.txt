@@ -1,0 +1,6 @@
+Strings
+--------------------------------------------------------------------------------------------------
+- Pada bahasa python untuk membuat string dengan cara mengapit value dengan tanda petik baik petik tunggal maupun petik double.
+  misal "Nursalim" atau 'Nursalim'
+- untuk menampilkan string anda dapat menggunakan fungsi print()
+contoh : string.py
