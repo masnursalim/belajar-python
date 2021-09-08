@@ -1,0 +1,2 @@
+- Untuk menggabungkan dua string atau lebih dapat menggunakan operator +
+- contoh : concat_string.py

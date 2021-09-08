@@ -12,3 +12,5 @@ https://linuxhint.com/
 https://pythonguides.com/
 https://www.studytonight.com/python/
 https://www.tutorialexample.com/python-tutorials-and-examples-for-beginners/
+https://www.pythontutorial.net/
+https://www.w3resource.com/python/python-tutorial.php

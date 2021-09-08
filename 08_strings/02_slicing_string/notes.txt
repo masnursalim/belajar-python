@@ -1,0 +1,10 @@
+Slicing
+--------------------------
+- Untuk melakuan slicing (memotong) pada sebuah string harus ditentukan index awal dan index akhir pada string yang akan di slice.
+- contoh : slice_string.py
+
+
+Negative Slicing
+---------------------------------------------
+- Anda dapat menerapkan negatif slicing dengan menambahkan tanda -, yaitu dipotong dari sebelah kanan string
+- contoh : negative_slice_string.py

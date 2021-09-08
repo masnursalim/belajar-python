@@ -4,3 +4,32 @@ Strings
   misal "Nursalim" atau 'Nursalim'
 - untuk menampilkan string anda dapat menggunakan fungsi print()
 contoh : string.py
+
+
+Multiline String
+------------------------------------------------
+- Untuk meng-assign string multi line (banyak baris) kedalam sebuah variable, Anda dapat menggunakan tanda tiga petik baik petik tunggal
+  maupun tiga petik ganda.
+- contoh : string_multi_line.py
+
+
+String Array
+---------------------------------------------
+- String pada dasarnya adalah kumpulan dari beberapa karakter atau huruf yang disusun secara berurut.
+  Misalnya sebuah string "Python" itu terdiri atas bebera karakter yaitu 'P','y','t','h','o', dan 'n'.
+- Sehingga untuk mengakses salah satu bagian/karakter dari string dapat menggunakan index nya (diawali dengan 0).
+- Karena string merupakan array, maka Anda melakukan proses perulangan (looping) string tersebut.
+contoh : string_array.py
+
+
+Mengecek Kata dalam String
+-----------------------------------------------
+- Untuk mengecek kata apakah ada di dalam sebuah string atau tidak dapat menggunakan operator in dan not in.
+- Operator in dan not in akan mengembalikan nilai boolean, yaitu true atau false. true jika ada dan false jika tidak ada.
+contoh : cek_string.py
+
+
+Menampilkan Panjang String
+------------------------------------------------------
+- untuk menampilkan panjang string, anda dapat menggunakan fungsi len():
+contoh : panjang_string.py

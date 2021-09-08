@@ -1,0 +1,27 @@
+uppercase
+----------------------------------
+- untuk membuat string uppercase dapat menggunakan method upper().
+- contoh : string_upper.py
+
+
+lowercase
+------------------------------------------------------------------------
+- untuk membuat string lowercase dapat menggunakan method lower().
+- contoh : string_lower.py
+
+
+Remove Whitespace
+--------------------------------------------------------------------------
+- untuk menghapus spasi kosong diawal dan akhir string dengan menggunakan method strip()
+- contoh : string_strip.py
+
+String Replace
+------------------------------------------------------
+- untuk mengganti string dengan string lainnya dengan menggunakan method replace()
+- contoh : string_replace.py
+
+String Split
+------------------------------------
+- Untuk memecah string berdasarkan pemisahnya, Anda dapat menggunakan method split()
+- method split akan mengembalikan nilai list.
+- contoh : string_split.py
