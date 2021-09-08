@@ -1,0 +1,13 @@
+- Untuk menampilkan escape character di Python dapat menggunakan tanda backslash \ diikuti dengan karakter yang akan dimasukkan
+- misal, untuk menampilkan string "Nursalim" di layar (dengan tanda petik) dapat menggunakan "\"Nursalim\""
+- Berikut tabel escape character di Python
+    \'	    Single Quote	
+    \\	    Backslash	
+    \n	    New Line	
+    \r	    Carriage Return	
+    \t	    Tab	
+    \b	    Backspace	
+    \f	    Form Feed	
+    \ooo	Octal value	
+    \xhh	Hex value
+- contoh : string_escape.py

@@ -1,0 +1,3 @@
+- Seperti yang kita ketahui, bahwa kita tidak boleh menggabungkan string dengan angka.
+- Untuk menggabungkan string dengan angka, dapat menggunakan method format().
+- contoh : string_format.py
