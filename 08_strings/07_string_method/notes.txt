@@ -1,0 +1,64 @@
+Beberapa Method String di Python
+
+1. capitalize() : mengkonversi huruf pertama dari sebuah menjadi uppercase, dan huruf selanjutnya sampai akhir string menjadi lowercase.
+   contoh : string_capitalize.py
+
+2. casefold() : untuk mengkonversi string menjadi lowercase
+   contoh : string_casefold.py
+
+3. center() : untuk menampilkan string ketengah dengan menambahkan ruang kosong.
+   contoh : string_center.py
+
+4. count() : untuk menghitung jumlah string yang akan ditampilkan.
+   contoh : string_count.py
+
+5. endswith() : akan mengembalikan nilai true, jika string terdapat akhiran dengan nilai tertentu.
+   contoh : string_endswith.py
+
+6. expandtab(): The expandtabs() method sets the tab size to the specified number of whitespaces.
+   syntax : string.expandtabs(tabsize)
+   - tabsize : Optional. A number specifying the tabsize. Default tabsize is 8
+   contoh : string_expandtab.py
+
+7. find() : The find() method finds the first occurrence of the specified value.
+   The find() method returns -1 if the value is not found.
+   The find() method is almost the same as the index() method, the only difference is that the index() method raises an exception if the value is not found. (See example below)
+
+   syntax : string.find(value, start, end)
+      Parameter	Description
+      value	      Required. The value to search for
+      start	      Optional. Where to start the search. Default is 0
+      end	      Optional. Where to end the search. Default is to the end of the string
+   contoh : string_find.py
+
+8. format(): untuk memformat string
+   The format() method formats the specified value(s) and insert them inside the string's placeholder.
+   The placeholder is defined using curly brackets: {}. Read more about the placeholders in the Placeholder section below.
+   The format() method returns the formatted string.
+   Syntax :
+   string.format(value1, value2...)
+
+   contoh : string_format.py
+   :<		Left aligns the result (within the available space)
+   :>		Right aligns the result (within the available space)
+   :^		Center aligns the result (within the available space)
+   :=		Places the sign to the left most position
+   :+		Use a plus sign to indicate if the result is positive or negative
+   :-		Use a minus sign for negative values only
+   : 		Use a space to insert an extra space before positive numbers (and a minus sign before negative numbers)
+   :,		Use a comma as a thousand separator
+   :_		Use a underscore as a thousand separator
+   :b		Binary format
+   :c		Converts the value into the corresponding unicode character
+   :d		Decimal format
+   :e		Scientific format, with a lower case e
+   :E		Scientific format, with an upper case E
+   :f		Fix point number format
+   :F		Fix point number format, in uppercase format (show inf and nan as INF and NAN)
+   :g		General format
+   :G		General format (using a upper case E for scientific notations)
+   :o		Octal format
+   :x		Hex format, lower case
+   :X		Hex format, upper case
+   :n		Number format
+   :%		Percentage format         

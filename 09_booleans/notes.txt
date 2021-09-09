@@ -1,0 +1,11 @@
+Tipe Boolean
+--------------------------------------------------
+- Tipe boolean merepresentasikan nilai True atau False
+- Tipe boolean akan membandingkan 2 atau lebih nilai atau variable
+- contoh : tipe_boolean.py
+           tipe_boolean2.py
+
+Fungsi bool()
+------------------------------
+- Fungsi bool() digunakan untuk mengevaluasi sebuah nilai. Jika ada akan bernilai Frue, dan jika kosong bernilai False.
+- contoh : fungsi_bool.py           
