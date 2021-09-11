@@ -36,3 +36,14 @@ Operator Identitas
 ---------------------------------------------------
 - Biasanya digunakan untuk membandingkan dua objek apakah sama atau tidak
 - contoh : operator_identitas.py
+
+Operator Membership
+-----------------------------------------
+- Digunakan untuk mengecek atau mengetes apakah nilai yang akan ditest bagian dari sebuah objek.
+- Bernilai True jika merupakan bagian objek, sebaliknya bernilai False jika bukan bagian dari objek
+- contoh : operator_membership.py
+
+Operator Bitwise
+--------------------------------------------------
+- Digunakan untuk membandingkan bilangan (biner)
+- contoh : operator_bitwise.py
