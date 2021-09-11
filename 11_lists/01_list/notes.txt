@@ -1,0 +1,14 @@
+- List digunakan untuk menyimpan beberapa nilai dalam satu variable.
+- List merupakan salah satu tipe data koleksi bawaan(built-in) python. Tipe data koleksi yang ada di Python, yaitu List, Set,
+  Tuple, dan Dictionary
+- Untuk membuat list di python, menggunakan tanda kurung siku.
+- contoh program : list.py
+
+Panjang List
+-----------------------------
+- Untuk menghitung panjang list dapat menggunakan fungsi len()
+- contoh : panjang_list.py
+
+Membuat List Menggunakan Konstruktor list()
+------------------------------------------------
+- contoh : list_konstruktor.py
