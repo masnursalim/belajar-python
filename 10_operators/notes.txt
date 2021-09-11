@@ -1,0 +1,38 @@
+- Operator digunakan untuk melakukan operasi pada variable ataupun nilai
+- operasi yang dilakukan bisa berupa operasi matematika, perbandinga, logika, dan lain sebagainya.
+- Ada beberapa operator yang terdapat dalam bahasa pemrograman Python, yaitu:
+  1. Operator Aritmatika
+  2. Operator Penugasan
+  3. Operator Perbandingan
+  4. Operator Logika
+  5. Operator Identitas
+  6. Operator Keanggotaan
+  7. Operator Bitwise
+
+Operator Aritmatika
+-----------------------------------------------------------------
+- Operator Aritmatika digunakan untuk melakukan operasi aritmatika seperti penjumlahan, perkalian, pembagian, dan sebagainya.
+- Contoh Program : operator_aritmatika.py
+
+
+Operator Pemberian Nilai
+---------------------------------------------------
+- Sesuai namanya digunakan untuk memberikan nilai pada sebuah variable.
+- Contoh Program : operator_assignment.py
+
+
+Operator Perbandingan
+------------------------------------------------------------------
+- Operator perbandingan digunakan untuk membandingkan dua variable atau lebih. 
+- Operator itu akan menampilkan nilai boolean, yaitu True atau False.
+- contoh : operator_perbadingan.py
+
+Operator Logika
+-------------------------------------------------------
+- Biasanya digunakan dalam pengkondisian (if statement). Operator ini akan menampilkan nilai boolean yaitu True atau False.
+- Contoh : operator_logika.py
+
+Operator Identitas
+---------------------------------------------------
+- Biasanya digunakan untuk membandingkan dua objek apakah sama atau tidak
+- contoh : operator_identitas.py

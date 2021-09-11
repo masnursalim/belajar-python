@@ -8,4 +8,8 @@ Tipe Boolean
 Fungsi bool()
 ------------------------------
 - Fungsi bool() digunakan untuk mengevaluasi sebuah nilai. Jika ada akan bernilai Frue, dan jika kosong bernilai False.
-- contoh : fungsi_bool.py           
+- contoh : fungsi_bool.py
+
+Fungsi Return Boolean
+- Anda dapat membuat sebuah fungsi yang mengembalikan nilai boolean.
+- contoh : fungsi_return_bool.py
