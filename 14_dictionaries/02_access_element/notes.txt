@@ -1,0 +1,4 @@
+Mengakses Element/Item
+-------------------------------------------------------------------------------------------------------------
+- Jika Anda dapat ingin mengakses element atau item pada dictionary. Anda dapat menggunakan tanda kurung siku []:
+- contoh : akses_elemen_dict.py

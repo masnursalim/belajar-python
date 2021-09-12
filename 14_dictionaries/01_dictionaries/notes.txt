@@ -5,11 +5,10 @@ Dictionary
 - Dictionary ditulis dengan tanda kurung kurawal { }
 - contoh : dictionary.py
 
-Mengakses Element/Item
--------------------------------------------------------------------------------------------------------------
-- Jika Anda dapat ingin mengakses element atau item pada dictionary. Anda dapat menggunakan tanda kurung siku []:
-- contoh : akses_elemen_dict.py
-
+Dictionary Banyak Tipe Data
+----------------------------------------------------------------
+Anda dapat menambahkan berbagai jenis tipe data pada item sebuah dictionary bahkan, item dictionary dapat berupa dictionary juga.
+- contoh : dictionary_banyak_tipe.py
 
 Panjang Dictionary
 -----------------------------------------------------------------------

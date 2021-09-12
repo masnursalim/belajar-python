@@ -26,3 +26,5 @@ yang belum kelar di blog
 - tuple
 - set
 - dict
+- if_else
+- while_loop

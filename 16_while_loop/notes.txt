@@ -1,0 +1,14 @@
+While Loop
+------------------------------
+- contoh : while_loop.py
+
+Break Statement
+------------------------------------
+- digunakan untuk menghentikan proses looping
+- contoh : while_loop_break.py
+
+Continue Statement
+--------------------------
+- digunakan untuk meng-skip perulangan jika kondisi tertentu.
+- Misalkan untuk menampilkan bilangan ganjil perulangan dari angka 1 s/d 10
+- while_loop_continue.py

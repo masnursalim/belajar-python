@@ -1,0 +1,23 @@
+- Pengkondisian biasanya digunakan pada operator logika, seperti ==, !=, >, <, >= dan <=.
+- Ada beberapa hal yang akan di bahas, yaitu:
+  1. if
+  2. elif
+  3. else
+  4. shorthand if, if..else
+  5. nested if
+  6. operator and
+  7. operator or
+  8. pass statement
+
+if
+----------------------------------
+- Perintah if digunakan untuk menyeleksi kondisi dari sebuah nilai atau variable, apabila bernilai true maka akan dieksekusi.
+  sedangkan jika bernilai false tidak akan di eksekusi
+- contoh : if.py   
+
+
+Elif
+------------------------------------
+- perintah elif akan di cek setelah kondisi pada blok if tidak terpenuhi. Jika pada saat pengecekan bernilai true, maka akan dieksekusi
+  sedangkan kalau false tidak akan di eksekusi.
+- contoh : if_elif.py  
