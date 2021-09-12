@@ -1,0 +1,22 @@
+Apa Itu Tuple?
+----------------------------------
+- Tuple adalah tipe data koleksi yang mirip dengan list, tapi perbedaannya kalau tuple itu berurut dan tidak dapat diubah elemennya.
+- Tuple ditulis menggunakan tanda kurung buka dan kurung tutup ( )
+- Indeks pertama pada tuple ditandai dengan 0, kedua dengan 1, dan seterusnya.
+- contoh : tuple.py
+
+Panjang Tuple
+---------------------------------------
+- Untuk menghitung panjang sebuah tuple, Anda dapat menggunakan fungsi len().
+- contoh : panjang_tuple.py
+
+Membuat Tupe Hanya 1 Item
+-------------------------------------------------
+- Untuk membuat tuple yang nilainya hanya satu item/elemen, maka dapat menambahkan koma pada akhir elemen. 
+  Kalau tidak ada koma, maka Python akan membacanya sebagai string.
+- contoh : tuple_satu_item.py
+
+Tuple Dengan Item Beda Tipe Data
+-----------------------------------------
+- Anda dapat membuat tuple dimana setiap item tipe datanya berbeda.
+- contoh program : tuple_beda_tipe_data.py
