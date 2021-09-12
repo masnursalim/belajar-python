@@ -1,0 +1,11 @@
+Apa Itu Set?
+------------------------------
+- Set adalah salah satu tipe data koleksi yang tidak berurut (unordered) dan tidak berindeks (unindexed).
+- Untuk membuat sebuah set dapat menggunakan tanda kurung kurawal { }.
+- Item atau elemen pada set tidak dapat diubah (unchangeable).
+- contoh : set.py
+
+
+Panjang Set
+-------------------------------------------
+- untuk menampilkan panjang dari sebuah set, Anda dapat menggunakan fungsi len()

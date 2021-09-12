@@ -1,0 +1,17 @@
+Dictionary
+------------------------------------------------------------------------------------------------------------
+- Digunakan untuk menyimpan sebuah nilai atau data dalam bentuk pasangan kunci (key) dan nilanya (pair)
+- Dictionary merupakan tipe data di python yang berurut, dapat diubah, dan tidak mengijinkan duplikasi data
+- Dictionary ditulis dengan tanda kurung kurawal { }
+- contoh : dictionary.py
+
+Mengakses Element/Item
+-------------------------------------------------------------------------------------------------------------
+- Jika Anda dapat ingin mengakses element atau item pada dictionary. Anda dapat menggunakan tanda kurung siku []:
+- contoh : akses_elemen_dict.py
+
+
+Panjang Dictionary
+-----------------------------------------------------------------------
+- Untuk menampilkan panjang sebuah dictionary, Anda dapat menggunakan fungsi len().
+- contoh panjang_dict.py

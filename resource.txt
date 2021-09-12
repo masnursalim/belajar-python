@@ -16,3 +16,13 @@ https://www.pythontutorial.net/
 https://www.w3resource.com/python/python-tutorial.php
 https://www.python-course.eu/python3_course.php
 https://www.tutorialkart.com/python/
+
+
+
+yang belum kelar di blog
+- variable
+- string
+- list
+- tuple
+- set
+- dict
