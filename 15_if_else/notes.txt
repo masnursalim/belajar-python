@@ -18,6 +18,14 @@ if
 
 Elif
 ------------------------------------
-- perintah elif akan di cek setelah kondisi pada blok if tidak terpenuhi. Jika pada saat pengecekan bernilai true, maka akan dieksekusi
+- Perintah elif akan di cek setelah kondisi pada blok if tidak terpenuhi. Jika pada saat pengecekan bernilai true, maka akan dieksekusi
   sedangkan kalau false tidak akan di eksekusi.
-- contoh : if_elif.py  
+- contoh : if_elif.py
+
+Else
+---------------------------
+- contoh : if_else.py
+
+Operator And
+---------------------------------
+- contoh : operator_and.py
