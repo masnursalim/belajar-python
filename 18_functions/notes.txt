@@ -1,3 +1,11 @@
 Membuat Function
 -------------------------------------------------
 - contoh : function.py
+
+Function Argument
+-----------------------------------
+- contoh : function_argumen.py
+
+Fungsi Return
+----------------------------------------
+- contoh : function_return.py
