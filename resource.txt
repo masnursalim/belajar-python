@@ -28,3 +28,5 @@ yang belum kelar di blog
 - dict
 - if_else
 - while_loop
+- for loop
+- function

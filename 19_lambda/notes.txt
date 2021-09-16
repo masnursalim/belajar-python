@@ -1,0 +1,29 @@
+Apa Itu Lambda?
+-------------------------------------------------------------------
+- Lambda adalah Fungsi tanpa nama atau disebut anonymous function.
+- Untuk membuat lambda, Anda harus menggunakan kata kunci (keyword) lambda.
+
+
+Sintak
+-----------------------------------------------------------------------
+- Berikut ini adalah sintak penggunaan lambda:
+    lambda arguments : expression
+
+- Keterangan:
+  1. argumen atau parameter yang di passing ke lambda
+  2. expression adalah kode yang akan dijalankan
+
+Membuat Lambda Sederhana
+----------------------------------
+- contoh : lambda.py  
+
+
+Menggunakan Lambda Di Dalam Function
+---------------------------------------------------------
+- Lambda dapat digunakan di dalam function, itulah salah satu kekuatan dari lambda.
+- Misalkan Anda memiliki sebuah function yang memiliki sebuah argumen, dimana argumen tersebut akan dikalikan 
+  dengan bilangan tertentu (lambda argumen).
+- contoh : lambda_in_function.py  
+
+
+
