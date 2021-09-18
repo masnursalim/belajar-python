@@ -1,0 +1,14 @@
+Built in list method
+------------------------------
+1. append : digunakan untuk menambahkan elemen pada list di posisi terakhir
+   contoh : list_append.py
+            list_append2.py
+
+2. clear : digunakan untuk menghapus semua elemen pada list
+   contoh : list_clear.py
+
+3. copy : digunakan untuk meng-copy list ke dalam variable
+   contoh : list_copy.py
+
+4. count : digunakan untuk menampilkan jumlah dari sebuah elemen yang dicari.
+   contoh : list_count.py                  

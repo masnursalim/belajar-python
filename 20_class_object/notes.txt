@@ -1,0 +1,8 @@
+Membuat Class
+---------------------------------------------------------------------------------------
+- Untuk membuat sebuah class di Python, Anda dapat menggunakan kata kunci (keyword) class.
+- contoh : class_demo.py
+
+Membuat Object
+--------------------------------------------
+- contoh : object_demo.py
