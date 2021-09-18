@@ -1,0 +1,8 @@
+Tuples method:
+---------------------------
+1. count() : digunakan menampilkan banyaknya item yang dicari pada tuple.
+   contoh : tuple_count.py
+            count_tuple_item.py
+
+2. index() : Digunakan untuk mencari sebuah elemen atau item pada tuple dengan menampilkan posisi elemen yang dicari.
+   contoh : tuple_index.py   
