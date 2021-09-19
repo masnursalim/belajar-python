@@ -1,0 +1,8 @@
+Dictionary Method
+----------------------------------
+1. clear() : untuk menghapus semua elemen pada Dictionary
+   contoh : dict_clear.py
+
+2. copy() : untuk mengcopy dictionary ke dalam variable baru.
+   contoh : dict_copy.py
+            dict_copy2.py   
