@@ -11,4 +11,10 @@ Built in list method
    contoh : list_copy.py
 
 4. count : digunakan untuk menampilkan jumlah dari sebuah elemen yang dicari.
-   contoh : list_count.py                  
+   contoh : list_count.py
+
+5. extend : untuk menambahkan data collection kedalam list
+   contoh : list_extend.py
+
+6. index : untuk mencari elemen
+   contoh : list_index.py                        
