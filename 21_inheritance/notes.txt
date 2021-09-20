@@ -1,0 +1,3 @@
+Membuat Kelas Parent
+--------------------------------------
+contoh : parent.py
