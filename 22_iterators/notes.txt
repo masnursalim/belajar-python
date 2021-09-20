@@ -1,0 +1,23 @@
+Apa Itu Iterator?
+-----------------------------------------
+- Iterator adalah sebuah objek yang mengandung sejumlah nilai yang dapat dihitung atau diulang.
+- Secara teknis dalam bahasa pemrograman Python, Iterator adalah objek yang mengimplement method __iter__() dan __next__()
+
+
+Iterable
+-------------------------------------------------
+- List, Tuple, Dictionary, dan Set dan bahkan string merupakan objek iterable (yang dapat diulang), artinya dapat dilakukan 
+  proses iterasi melalui method iter().
+- contoh : iterator.py  
+
+Perulangan Melalui Iterator
+-------------------------
+- Karena List, Set, Tuple, dan String merupakan iterable object, maka dapat dilakukan proses looping menggunakan for.
+- contoh : looping_iterator.py
+
+Membuat Iterator Pada Kelas
+---------------------------------
+- Anda dapat membuat iterator pada sebuah kelas atau object dengan mengimplementasi method __iter__() dan __next__().
+    1. method __iter__() digunakan untuk proses inisialisasi dan akan mengembalikan objek iterator.
+    2. method __next__() digunakan untuk melakukan operasi menampilkan item selanjutnya pada objek iterator.  
+
