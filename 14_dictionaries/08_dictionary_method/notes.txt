@@ -5,4 +5,15 @@ Dictionary Method
 
 2. copy() : untuk mengcopy dictionary ke dalam variable baru.
    contoh : dict_copy.py
-            dict_copy2.py   
+            dict_copy2.py
+
+3. get() : untuk menampilkab value dari spesifik key
+   contoh : dict_get.py
+            dict_get2.py
+
+4. items() : mengembalikan tipe list yang berisi semua key dan value pada dictionary
+   contoh : dict_items.py
+            dict_items2.py
+
+5. keys() : digunakan untuk menampilkan objek (object view) yang berisi sejumlah key yang ada di dictionary
+   contoh : dict_keys.py            
