@@ -6,3 +6,7 @@ Membuat Class
 Membuat Object
 --------------------------------------------
 - contoh : object_demo.py
+
+Function __init__()
+----------------------------------
+- contoh : function_init.py

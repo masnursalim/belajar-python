@@ -23,7 +23,19 @@ Menggunakan Lambda Di Dalam Function
 - Lambda dapat digunakan di dalam function, itulah salah satu kekuatan dari lambda.
 - Misalkan Anda memiliki sebuah function yang memiliki sebuah argumen, dimana argumen tersebut akan dikalikan 
   dengan bilangan tertentu (lambda argumen).
-- contoh : lambda_in_function.py  
+- contoh : lambda_in_function.py
 
+
+Lambda Filter
+------------------------------------------------------
+- contoh : lambda_filter.py
+
+Lambda Map
+----------------------------------------------
+- contoh : lambda_map.py
+
+Lambda reduce()
+------------------------
+- contoh : lambda_reduce.py
 
 
