@@ -31,3 +31,9 @@ yang belum kelar di blog
 - while_loop
 - for loop
 - function
+- lambda
+- class_object
+- inheritance
+- iterator
+- scope
+- modul
