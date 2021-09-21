@@ -1,0 +1,16 @@
+Menampilkan tanggal sekarang
+------------------------------------
+- contoh : tanggal_sekarang.py
+           tahun_tanggal_sekarang.py
+
+Membuat Object Date
+--------------------------------
+- Untuk membuat object date, Anda dapat menggunakan kelas datetime (konstruktor) dari module datetime.
+- contoh : create_date.py
+
+Format Date
+- Untuk melakukan format tanggal di Python, Anda dapat menggunakan method strftime().
+- contoh : format_date.py
+
+
+ 

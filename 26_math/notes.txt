@@ -1,0 +1,7 @@
+Built-in Fungsi Math di Python
+---------------------------------------------
+1. min() dan max()
+   cth : min_max.py
+
+2. abs() : abs() digunakan untuk menampilkan nilai absolut (harga mutlak) dari sebuah bilangan.   
+   contoh : abs.py
