@@ -10,3 +10,15 @@ Membuat Object
 Function __init__()
 ----------------------------------
 - contoh : function_init.py
+
+Modifikasi Property Object
+----------------------------
+- contoh : modify_property
+
+Menghapus Poperty Object
+------------------------
+- contoh : hapus_property.py
+
+Menghapus Objek
+-----------------------------
+- contoh : hapus_objek.py

@@ -5,3 +5,6 @@ Built-in Fungsi Math di Python
 
 2. abs() : abs() digunakan untuk menampilkan nilai absolut (harga mutlak) dari sebuah bilangan.   
    contoh : abs.py
+
+3. pow() : menampilkan hasil pangkat 2 bilangan
+   contoh : pow.py
