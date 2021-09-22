@@ -1,0 +1,28 @@
+Apa Itu JSON?
+----------------------------------------------
+- JSON merupakan singkatan dari Java Script Object Notation
+- Python memiliki pustaka atau library untuk bekerja dengan data JSON, yaitu json.
+- Dengan library ini, Anda dapat melakukan konversi dari string JSON ke dalam tipe dictionary atau sebaliknya.
+
+Konversi JSON Ke Python
+------------------------
+- Untuk mengkonversi data JSON ke dalam bentuk python (dictionary), dapat menggunakan method json.load()
+- contoh : json_load.py
+
+Konversi Dari Python Ke JSON
+-----------------------------------------
+- Untuk mengubah atau mengkonversi dari Python ke JSON string, dapat menggunakan method json.dumps()
+- contoh : json_dumps.py
+           json_dumps2.py
+
+Menambah Indent
+----------------------------------------
+- contoh : json_indent.py
+
+Mengubah Separator
+-----------------------------------------------------
+- contoh : json_separator.py
+
+Sorting key
+----------------------
+- conth : json_sorting.py
