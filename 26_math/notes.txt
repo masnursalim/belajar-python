@@ -8,3 +8,9 @@ Built-in Fungsi Math di Python
 
 3. pow() : menampilkan hasil pangkat 2 bilangan
    contoh : pow.py
+
+4. math.sqrt() : Digunakan untuk menampilkan hasil akar pangkat dua (kuadrat) dari sebuah bilangan.
+   contoh : math_sqrt.py
+
+5. math.ceil() : digunakan untuk membulatkan angka ke atas ke bilangan bulat terdekat.      
+   contoh : math_ceil.py
