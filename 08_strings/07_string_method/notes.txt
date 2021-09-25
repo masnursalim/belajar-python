@@ -96,4 +96,43 @@ Beberapa Method String di Python
     contoh : string_isidentifier.py
 
 16. islower() : digunakan untuk mengecek apakah string merupakan lowercase
-    contoh : string_islower.py                
+    contoh : string_islower.py
+
+17. isnumeric() : ngecek apakah string merupakan numeric
+    tanda -, dan . di angka tidak termasuk numerik
+    contoh : string_isnumerik.py
+
+18. isprintable() : apakah karakter dapat di print atau tidak
+    contoh : string_isprintable.py
+
+18. isspace() : apakah string merupakan spasi kosong
+    contoh : string_isspace.py
+
+19. istitle() : apakah string mengacu aturan title (setiap kata diawali dengan huruf besar)
+    contoh : string_istitle.py
+
+20. isupper() : untuk mengecek string apakah uppercase
+    contoh : string_isupper.py
+
+21. joint() : digunakan untuk menggabungkan data collection ke dalam string dengan menambahkan pemisah
+    sintak:
+      string.join(iterable)
+    contoh : string_join.py
+
+22. ljust() : left justified, akan menambahkan potongan string kedalam sisi kiri string
+    string.ljust(length, character)
+        - length : panjang string yang akan ditambahkan (mandatory)
+        - character : karakter yang ditambahkan jika belum penuh panjang nya (opsional)
+    contoh : string_ljust.py
+
+23. lower() : mengkonversi string ke dalam bentuk lowercase
+    contoh : string_lower.py
+
+24. lstrip() : digunakan untuk menghapus spasi kosong dari sisi kiri string
+    sintak:
+      string.lstrip(characters)
+      - characters	Optional. A set of characters to remove as leading characters
+
+    contoh : string_lstrip.py
+    
+                                
