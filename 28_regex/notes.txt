@@ -1,0 +1,12 @@
+
+Modul Regex
+------------------------------
+- Untuk mengimplementasi modul regex pada bahasa pemrograman Python, Anda dapat menggunakan built-in package 
+  atau library re dengan cara meng-import nya.
+  
+  import re
+
+Menggunakan Regex
+----------------------------------------
+- Di bawah ini adalah contoh program sederhana penggunaan regex:
+- Contoh Program
