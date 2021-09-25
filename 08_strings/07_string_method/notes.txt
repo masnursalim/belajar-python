@@ -62,3 +62,38 @@ Beberapa Method String di Python
    :X		Hex format, upper case
    :n		Number format
    :%		Percentage format         
+
+9. index() : Digunakan untuk mencari posisi dari string
+   syntak :
+      string.index(value, start, end)
+      - value : nilai yang dicari (mandatory)
+      - start : posisi awal (index di awali dengan 0)
+      - end : posisi akhir
+   contoh : string_index.py
+   kalau string tidak ditemukan maka akan menampilkan pesan error
+
+10. isalnum() : cek apakah string merupakan alpanumerik?
+    definisi alpanumerik adalah karakter yang mengandung huruf dan angka tidak termasuk spesial karakter atau simbol
+    syntax : 
+      string.isalnum()
+    contoh : string_isalnum.py        
+
+11. isalpha() : digunakan untuk mengecek apakah string merupakan alphabet
+    definisi alfabate karakter yang mengandung huruf dari A sampai Z
+    sintak:
+      string.isalpha()
+    contoh : string_isalpha.py
+
+13. isdecimal() : digunakan untuk mengecek apakah string merupakan desimal
+    yaitu mengecek apakah string merupakan angka 0 s/d 9
+    contoh : string_isdecimal.py
+
+14. isdigit() : digunakan untuk mengecek apakah string merupakan digit atau nggak
+    contoh : string_isdigit.py
+
+15. isidentifier() : apakah string merupakan identifier
+    identifier yang mengandung huruf, angka dan underscore
+    contoh : string_isidentifier.py
+
+16. islower() : digunakan untuk mengecek apakah string merupakan lowercase
+    contoh : string_islower.py                
